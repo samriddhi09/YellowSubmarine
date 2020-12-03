@@ -140,8 +140,8 @@ a{
     height:40px;
     min-height:40px;
   }
-body:before {min-height: 1000%;}
-.dark:before {min-height: 1000%;}
+body:before {min-height: 1200%;}
+.dark:before {min-height: 1200%;}
 
 }
 
