@@ -139,8 +139,8 @@ a{
     height:40px;
     min-height:40px;
   }
-body:before {min-height: 950%;}
-.dark:before {min-height: 950%;}
+body:before {min-height: 1100%;}
+.dark:before {min-height: 1100%;}
 
 }
 
